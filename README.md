@@ -5,3 +5,4 @@ Welcome, brave adventurer! You are about to embark on a thrilling journey filled
 Your journey begins at the entrance of a mysterious forest. Which path will you choose?
 
 - [Enter the dark, misty path](misty-path.md)
+- [Enter the glimmering path](glimmering-path.md)
