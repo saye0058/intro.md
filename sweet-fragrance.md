@@ -1,0 +1,1 @@
+His mind was getting blocked by with that sweet, fruity fragrance of his favourite dessert. But he saw strawberries as large in size as his couch hanging on the trees.
